@@ -1,0 +1,9 @@
+{
+
+    "vcenter_server" : "vcenter.alex.local",
+    "vm_folder" : "BASE",
+    "esxi_host_name" : "192.168.7.33",
+    "defualt_network" : "480-WAN",
+    "datastore" : "datastore1-super1"
+    }
+
